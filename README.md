@@ -18,6 +18,8 @@ Collection about maps of Games, movies, animations, novels,etc
 * [World of MapCraft Classic Interactive Map](https://www.gamermaps.net/map/world-of-warcraft/classic#3.18.613.0)
 ## Assassin's Creed II
 * [Assassin's Creed II Interactive Map](https://mapgenie.io/assassins-creed-2/maps/italy)
+## Assassin's Creed Valhalla
+* [Assassin's Creed Valhalla Interactive Map](https://mapgenie.io/assassins-creed-valhalla/maps/norway)
 ## Assassins-Creed-Odyssey
 * [Assassins's Creed Odyssey Interactive Map](https://mapgenie.io/assassins-creed-odyssey/maps/elysium)
 # TV PLAY AND FILMS
