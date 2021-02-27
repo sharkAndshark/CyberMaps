@@ -11,6 +11,7 @@ Collection about maps of Games, movies, animations, novels,etc
 * [Zelda: Breath of the Wild Waypoint Map](https://mrcheeze.github.io/botw-waypoint-map/)
 ## Genshi
 * [Genshi Map](https://genshinmap.github.io/)
+* [Genshi Impact Interactive Map](https://mapgenie.io/genshin-impact/maps/teyvat)
 ## World of WarCraft
 * [Wow Minimap Browser](https://wow.tools/maps/Azeroth/971/3/-42.063/29.000)
 * [World of MapCraft](https://worldofmapcraft.com/#/2091/2327/2/)
