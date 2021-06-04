@@ -24,6 +24,14 @@ Collection about maps of Games, movies, animations, novels,etc
 * [Assassin's Creed Valhalla Interactive Map](https://mapgenie.io/assassins-creed-valhalla/maps/norway)
 ## Assassins-Creed-Odyssey
 * [Assassins's Creed Odyssey Interactive Map](https://mapgenie.io/assassins-creed-odyssey/maps/elysium)
+## Resident Evil Village
+* [The Village](https://mapgenie.io/resident-evil-village/maps/the-village)
+* [All goats of warding](https://mapgenie.io/resident-evil-village/guides/goats-of-warding)
+* [All files](https://mapgenie.io/resident-evil-village/guides/files)
+* [All outhouses](https://mapgenie.io/resident-evil-village/guides/outhouses)
+* [All treasure chests](https://mapgenie.io/resident-evil-village/guides/treasure-chests)
+* [All challenges](https://mapgenie.io/resident-evil-village/guides/challenges)
+* [All treasures & combinations](https://mapgenie.io/resident-evil-village/guides/treasures)
 # TV PLAY AND FILMS
 ## Game of Thrones
 * [Atlas Of Thrones: A Game of Thrones Interactive Map](https://atlasofthrones.com/)
